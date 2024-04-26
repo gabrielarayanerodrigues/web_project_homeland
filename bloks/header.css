@@ -9,6 +9,7 @@
   width: 254px;
   height: 70px;
   margin: 0 auto;
+  text-align: center;
 }
 
 @media screen and (max-width: 768px) {

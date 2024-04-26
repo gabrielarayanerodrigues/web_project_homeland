@@ -5,15 +5,16 @@
   justify-content: center;
   padding-top: 34px;
 }
-.header__title {
-  width: 254px;
-  height: 70px;
-  margin: 0 auto;
-}
 .header__logo {
   width: 254px;
-  height: 66px;
+  height: 70px;
+  top: 34px;
+  left: 513px;
+  gap: 0px;
+  opacity: 0px;
+  text-align: center;
 }
+
 @media screen and (max-width: 768px) {
   .header {
     max-width: 768px;
