@@ -29,7 +29,6 @@
 
   .photo__grid {
     column-gap: 10px;
-    row-gap: 10px;
     max-width: 720px;
     grid-template-columns: repeat(2, 1fr);
   }
@@ -56,8 +55,6 @@
   }
 
   .photo__grid-image {
-    width: 100%;
-    height: auto;
     max-width: 288px;
     max-height: 216px;
   }
